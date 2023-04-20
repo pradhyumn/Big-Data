@@ -1,6 +1,6 @@
 # Lab 3: Spark and Parquet Optimization Report
 
-Name:
+Name: Pradhyumn Bhale
  
 NetID: 
 
